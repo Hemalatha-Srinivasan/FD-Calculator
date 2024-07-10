@@ -1,1 +1,1 @@
-# FD-Calculator
+# FD Rate-Calculator
